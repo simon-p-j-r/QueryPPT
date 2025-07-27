@@ -1,6 +1,6 @@
 # QueryPPT: An Intelligent Framework for Generating Presentations from Queries
 
-**QueryPPT** is an innovative end-to-end automated presentation generation framework designed to directly transform users' concise natural language queries into content-rich and visually coherent presentations. This framework breaks through the traditional reliance on structured documents by implementing a "Query to All" automated process from scratch, achieved through two main stages: "Intelligent Content Generation" and "Adaptive Presentation Creation."
+**QueryPPT** is an innovative automated presentation generation framework designed to directly transform users' concise natural language queries into content-rich and visually coherent presentations. This framework breaks through the traditional reliance on structured documents by implementing a "Query to All" automated process from scratch, achieved through two main stages: "Intelligent Content Generation" and "Adaptive Presentation Creation."
 
 This project consists of two core sub-modules:
 
