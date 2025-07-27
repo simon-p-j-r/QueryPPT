@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="485d72fd-3d0c-4eab-9034-67b72a0b8bf0" name="Auto-PPT">
+        <fileTransfer accessType="SFTP" host="125.71.97.126" port="22" sshConfigId="fa125b95-c968-4714-a043-b724463cdf71" sshConfig="work@125.71.97.126:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b41e790-c46d-43d1-a230-7b52a9a29ee0" name="auto_ppt_simple_2">
+        <fileTransfer accessType="SFTP" host="125.71.97.126" port="22" sshConfigId="fa125b95-c968-4714-a043-b724463cdf71" sshConfig="work@125.71.97.126:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="180c7ed6-6c8d-4128-928a-fb3a9a2037cd" name="auto_ppt_huowa">
+        <fileTransfer accessType="SFTP" host="222.211.217.49" port="22" sshConfigId="062da36a-2e17-48ae-8349-6d1a3e101ecc" sshConfig="work@222.211.217.49:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

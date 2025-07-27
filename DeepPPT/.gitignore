@@ -1,0 +1,6 @@
+core/data/
+core/output/
+__pycache__/
+tmp/
+tmp.py
+log/

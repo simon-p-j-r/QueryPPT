@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="765f3d84-a229-401b-b032-b7e599e81354" name="QueryPPT">
+        <fileTransfer accessType="SFTP" host="222.211.217.49" port="22" sshConfigId="062da36a-2e17-48ae-8349-6d1a3e101ecc" sshConfig="work@222.211.217.49:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
